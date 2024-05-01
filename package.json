@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index 'mongodb+srv://vinicius229633:vinicius229633@cluster0.k1l9ibs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "start": "node index mongodb+srv://vinicius229633:vinicius229633@cluster0.k1l9ibs.mongodb.net/vinicius?retryWrites=true&w=majority&appName=Cluster0"
   },
   "author": "",
   "license": "ISC",
